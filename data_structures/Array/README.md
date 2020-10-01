@@ -1,6 +1,6 @@
 # Array
 
-Simple array of integers. With I/O functions, Sort Functions and Search Functions.
+Simple array of integers. Include With I/O functions, Sort Functions and Search Functions.
 
 ## Structure
 
